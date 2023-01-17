@@ -1,0 +1,40 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    text-align: center;
+}
+main {
+    text-align: center;
+    margin-top: 100px ;
+}
+#gearOne{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#gearSecond {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#gearThird {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#gearFourth {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#gearFive {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#automatic {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
